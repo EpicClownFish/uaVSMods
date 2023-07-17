@@ -1,0 +1,11 @@
+{
+  "type": "Content",
+  "modid": "uavsmods",
+  "name": "uaVSMods",
+  "authors": [ "CakesTwix" ],
+  "description": "Ukrainian translation of mods for Vintage Story",
+  "version": "1.0.0",
+  "dependency": {
+    "game": "1.16.5,1.17.11,1.18.6"
+  }
+}
