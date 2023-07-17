@@ -26,7 +26,9 @@
 | Мод | Переклад | Статус | Мод | Переклад | Статус |
 |-----|--------|-----|--------|--------|--------|
 | [Auto Map Markers](https://mods.vintagestory.at/show/mod/797) | ![Auto Map Markers](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/auto-map-markers/svg-badge.svg) | Downstream | [Primitive Survival](https://mods.vintagestory.at/show/mod/1238) | ![Primitive Survival](http://weblate.cakestwix.com/widgets/opensource/uk/primitive-survival/svg-badge.svg) | Downstream |
-| [ProspectTogether](https://mods.vintagestory.at/show/mod/6932) | ![ProspectTogether](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/prospecttogether/svg-badge.svg) | [Upstream](https://github.com/Wooza/ProspectTogether/pull/2) |
+| [ProspectTogether](https://mods.vintagestory.at/show/mod/6932) | ![ProspectTogether](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/prospecttogether/svg-badge.svg) | [Upstream](https://github.com/Wooza/ProspectTogether/pull/2) | [From Golden Combs ](https://mods.vintagestory.at/show/mod/1373) | ![From Golden Combs ](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/from-golden-combs/svg-badge.svg) | Downstream |
+
+1. Необхідно перевірити ще раз переклад From Golden Combs. Там неточності та недопереклад
 
 # Пояснення
 
