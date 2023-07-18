@@ -1,0 +1,18 @@
+{
+  "translocatorengineeringredux:item-linker": "З'єднувач транслокатора",
+  "translocatorengineeringredux:item-coalescencecrystalshard": "Осколок коалесцентного кристалу",
+  "translocatorengineeringredux:item-crowbar": "Лом",
+  "translocatorengineeringredux:itemdesc-crowbar": "Утримуйте ліву кнопку миші на Статичному Транслокаторі, щоб розібрати його на частини.",
+  "translocatorengineeringredux:item-gatearray": "Масив брам",
+  "translocatorengineeringredux:item-particulationcomponent": "Компонент часток",
+  "translocatorengineeringredux:item-powercore": "Силове ядро",
+  "translocatorengineeringredux:item-rectifiedcoalescencecrystal": "Випрямлений коалесцентний кристал",
+  "heldhelp-linker-sync": "Синхронізувати",
+  "heldhelp-linker-clear": "Десинхронізувати",
+  "heldhelp-linker-link": "З'єднати",
+  "translocatorengineeringredux:ingameerror-linker-cleared": "Синхронізацію знято",
+  "translocatorengineeringredux:ingameerror-linker-out-of-range": "Поза зоною досяжності!",
+  "translocatorengineeringredux:ingameerror-linker-synced": "Синхронізовано з транслокатором",
+  "translocatorengineeringredux:ingameerror-linker-linked": "Транслокатори з'єднані!",
+  "game:tabname-tengineering": "Translocator Engineering"
+}
