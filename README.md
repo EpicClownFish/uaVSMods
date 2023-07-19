@@ -20,6 +20,7 @@
 # Перекладачі
 
 1. @CakesTwix
+2. @ICHTLAY (Перевірив From Golden Combs)
 
 # Статус
 
@@ -29,8 +30,6 @@
 | [ProspectTogether](https://mods.vintagestory.at/show/mod/6932) | ![ProspectTogether](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/prospecttogether/svg-badge.svg) | [Upstream](https://github.com/Wooza/ProspectTogether/pull/2) | [From Golden Combs](https://mods.vintagestory.at/show/mod/1373) | ![From Golden Combs ](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/from-golden-combs/svg-badge.svg) | Downstream |
 | [TranslocatorEngineering](https://mods.vintagestory.at/show/mod/600) | ![TranslocatorEngineering](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/translocatorengineeringredux/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/translocator-engineering-redux/pull/4) | [Millwright](https://mods.vintagestory.at/show/mod/7016) | ![Millwright](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/millwright/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/millwright/pull/2) |
 | [Fishing Expansion](https://mods.vintagestory.at/show/mod/6700) | ![Fishing Expansion](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fishing-expansion/svg-badge.svg) | Downstream | [Ceramos](https://mods.vintagestory.at/show/mod/3777) | ![Ceramos](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/ceramos/svg-badge.svg) | Downstream |
-
-1. Необхідно перевірити ще раз переклад From Golden Combs. Там неточності та недопереклад
 
 # Пояснення
 
