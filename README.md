@@ -31,7 +31,7 @@
 | [TranslocatorEngineering](https://mods.vintagestory.at/show/mod/600) | ![TranslocatorEngineering](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/translocatorengineeringredux/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/translocator-engineering-redux/pull/4) | [Millwright](https://mods.vintagestory.at/show/mod/7016) | ![Millwright](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/millwright/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/millwright/pull/2) |
 | [Fishing Expansion](https://mods.vintagestory.at/show/mod/6700) | ![Fishing Expansion](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fishing-expansion/svg-badge.svg) | Downstream | [Ceramos](https://mods.vintagestory.at/show/mod/3777) | ![Ceramos](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/ceramos/svg-badge.svg) | Downstream |
 | [Wild Farming - Revival](https://mods.vintagestory.at/show/mod/6102) | ![	Wild Farming - Revival ](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wild-farming-revival/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/wildfarmingrevival/pull/1) | [Fields Of Gold](https://mods.vintagestory.at/show/mod/1429) | ![Fields Of Gold](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fieldsofgold/svg-badge.svg) | Downstream |
-
+| [Teleportation Network ](https://mods.vintagestory.at/tpnet) | ![Fields Of Gold](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/tpnet/svg-badge.svg) | Downstream |
 # Пояснення
 
 Downstream - це коли переклад не включений в основний репозиторій мода з якихось причин.
