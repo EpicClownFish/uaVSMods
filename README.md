@@ -36,3 +36,7 @@
 
 Downstream - це коли переклад не включений в основний репозиторій мода з якихось причин.
 Upstream - переклад є у розробника.
+
+# For developers
+* If you are a developer who wants translation into Ukrainian - write to Issue or me in Telegram @CakesTwix
+* If there is a translation of your mod and it is in Downstream status - write to Issue with a desire to make the translation upstream.
