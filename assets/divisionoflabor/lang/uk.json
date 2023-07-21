@@ -1,0 +1,18 @@
+{
+    "item-tools-basic": "Базові інструменти",
+    "item-tools-standard": "Стандартні інструменти",
+    "item-tools-advanced": "Просунуті інструменти",
+    "item-basicbooster": "Базовий покращувач ґрунту",
+    "item-qualitybooster": "Якісний покращувач ґрунту",
+    "item-clothes-head-mininghat": "Шапка шахтаря",
+    "block-metalpan-copper": "Мідна каструля",
+    "block-metalmininglantern-*": "Шахтарський ліхтар",
+    "block-primitivemininglantern-*": "Простий шахтарський ліхтар",
+    "item-clothes-head-farm-hat": "Фермерський капелюх",
+    "item-clothes-upperbody-lumberjack-shirt": "Сорочка лісоруба",
+    "item-tools-simple": "Прості інструменти",
+    "itemdesc-tools-basic": "<font color=\"#ff0000\">Занадто слабкий, щоб ремонтувати пластинчасту броню</font>",
+    "itemdesc-basicbooster": "Постійно покращує всі максимальні показники поживних речовин у ґрунті на 20%",
+    "itemdesc-qualitybooster": "Постійно покращує всі максимальні показники поживних речовин у ґрунті на 40%",
+    "blockdesc-metalpan-copper": "Правильний шукач вміє знаходити мінерали і має більше шансів знайти самородки"
+}
