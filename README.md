@@ -32,6 +32,7 @@
 | [Fishing Expansion](https://mods.vintagestory.at/show/mod/6700) | ![Fishing Expansion](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fishing-expansion/svg-badge.svg) | Downstream | [Ceramos](https://mods.vintagestory.at/show/mod/3777) | ![Ceramos](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/ceramos/svg-badge.svg) | Downstream |
 | [Wild Farming - Revival](https://mods.vintagestory.at/show/mod/6102) | ![Wild Farming - Revival ](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wild-farming-revival/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/wildfarmingrevival/pull/1) | [Fields Of Gold](https://mods.vintagestory.at/show/mod/1429) | ![Fields Of Gold](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fieldsofgold/svg-badge.svg) | Downstream |
 | [Teleportation Network](https://mods.vintagestory.at/tpnet) | ![Teleportation Network](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/tpnet/svg-badge.svg) | Downstream | [Division of Labor](https://mods.vintagestory.at/show/mod/7292) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream |
+| [Kefir](https://mods.vintagestory.at/show/mod/7412) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream |
 # Пояснення
 
 Downstream - це коли переклад не включений в основний репозиторій мода з якихось причин.
