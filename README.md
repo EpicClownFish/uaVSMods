@@ -38,7 +38,7 @@
 | Мод | Джерело | Статус | Мод | Джерело | Статус |
 |-----|--------|-----|--------|--------|--------|
 | [Beehive Kiln](https://mods.vintagestory.at/show/mod/5060) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/223/en-uk) | Downstream | [More Candles](https://mods.vintagestory.at/show/mod/3601) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/145/en-uk) | Downstream |
-| [More Candles](https://mods.vintagestory.at/show/mod/3601) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/145/en-uk) | Downstream |
+| [Pretzels](https://mods.vintagestory.at/show/mod/5546) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/305/en-uk) | Downstream | [YEET](https://mods.vintagestory.at/show/mod/740) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/301/en-uk) | Downstream |
 
 # Пояснення
 
