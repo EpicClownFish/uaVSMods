@@ -34,6 +34,9 @@
 | [Teleportation Network](https://mods.vintagestory.at/tpnet) | ![Teleportation Network](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/tpnet/svg-badge.svg) | Downstream | [Division of Labor](https://mods.vintagestory.at/show/mod/7292) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream |
 | [Kefir](https://mods.vintagestory.at/show/mod/7412) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream | [Wildcraft Trees](https://mods.vintagestory.at/show/mod/4145) | ![Wildcraft Trees](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wildcraft-trees/svg-badge.svg) | Downstream |
 | [ACulinaryArtillery](https://mods.vintagestory.at/aculinaryartillery) | ![ACulinaryArtillery](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/aculinaryartillery/svg-badge.svg) | Downstream | [Not Enough Sand](https://mods.vintagestory.at/show/mod/6708) | ![Not Enough Sand](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/notenoughsand/svg-badge.svg) | Downstream |
+| [Sortable Storage](https://mods.vintagestory.at/show/mod/2966) | ![Sortable Storage](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/sortablestorage/svg-badge.svg) | Downstream |
+
+1. Потрібно перевірити Sortable Storage.
 
 # Не мої переклади
 | Мод | Джерело | Статус | Мод | Джерело | Статус |
