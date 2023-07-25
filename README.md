@@ -33,6 +33,7 @@
 | [Wild Farming - Revival](https://mods.vintagestory.at/show/mod/6102) | ![Wild Farming - Revival ](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wild-farming-revival/svg-badge.svg) | [Upstream](https://github.com/SpearAndFang/wildfarmingrevival/pull/1) | [Fields Of Gold](https://mods.vintagestory.at/show/mod/1429) | ![Fields Of Gold](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/fieldsofgold/svg-badge.svg) | Downstream |
 | [Teleportation Network](https://mods.vintagestory.at/tpnet) | ![Teleportation Network](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/tpnet/svg-badge.svg) | Downstream | [Division of Labor](https://mods.vintagestory.at/show/mod/7292) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream |
 | [Kefir](https://mods.vintagestory.at/show/mod/7412) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Downstream | [Wildcraft Trees](https://mods.vintagestory.at/show/mod/4145) | ![Wildcraft Trees](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wildcraft-trees/svg-badge.svg) | Downstream |
+| [ACulinaryArtillery](https://mods.vintagestory.at/aculinaryartillery) | ![ACulinaryArtillery](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/aculinaryartillery/svg-badge.svg) | Downstream |
 
 # Не мої переклади
 | Мод | Джерело | Статус | Мод | Джерело | Статус |
@@ -41,11 +42,12 @@
 | [Pretzels](https://mods.vintagestory.at/show/mod/5546) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/305/en-uk) | Downstream | [YEET](https://mods.vintagestory.at/show/mod/740) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/301/en-uk) | Downstream |
 
 1. Wildcraft Trees - Починав перекладати, але знайшов [готовий переклад](https://crowdin.com/translate/vintage-story-mods/191/en-uk).
+2. ACulinaryArtillery - Взяв [готовий переклад](https://crowdin.com/translate/vintage-story-mods/161/en-uk) і додав собі.
 
 # Пояснення
 
-Downstream - це коли переклад не включений в основний репозиторій мода з якихось причин.
-Upstream - переклад є у розробника.
+* Downstream - це коли переклад не включений в основний репозиторій мода з якихось причин.
+* Upstream - переклад є у розробника.
 
 # For developers
 * If you are a developer who wants translation into Ukrainian - write to Issue or me in Telegram @CakesTwix
