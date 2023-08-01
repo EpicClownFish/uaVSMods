@@ -43,6 +43,7 @@
 |-----|--------|-----|--------|--------|--------|
 | [Beehive Kiln](https://mods.vintagestory.at/show/mod/5060) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/223/en-uk) | Downstream | [More Candles](https://mods.vintagestory.at/show/mod/3601) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/145/en-uk) | Downstream |
 | [Pretzels](https://mods.vintagestory.at/show/mod/5546) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/305/en-uk) | Downstream | [YEET](https://mods.vintagestory.at/show/mod/740) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/301/en-uk) | Downstream |
+| [SuperFuel](https://mods.vintagestory.at/show/mod/450) | [Discord](https://discord.gg/rK4f42964W) | Downstream |
 
 1. Wildcraft Trees - Починав перекладати, але знайшов [готовий переклад](https://crowdin.com/translate/vintage-story-mods/191/en-uk).
 2. ACulinaryArtillery - Взяв [готовий переклад](https://crowdin.com/translate/vintage-story-mods/161/en-uk) і додав собі.
