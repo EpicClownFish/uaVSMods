@@ -1,0 +1,14 @@
+{
+  "item-creature-tame-fox-male": "Лисиця (ручна, самець)",
+  "item-creature-tame-fox-female": "Лисиця (ручна, самка)",
+  "item-creature-tame-fox-arctic-male": "Песець (ручний, самець)",
+  "item-creature-tame-fox-arctic-female": "Песець (ручний, самка)",
+  "item-creature-tame-fox-pup-forest": "Лисиця (ручна, цуценя)",
+  "item-creature-tame-fox-pup-arctic": "Песець (ручний, цуценя)",
+  "item-dead-creature-tame-fox-male": "Мертва лисиця (самець)",
+  "item-dead-creature-tame-fox-female": "Мертва лисиця (самка)",
+  "item-dead-creature-tame-fox-arctic-male": "Мертвий песець (самець)",
+  "item-dead-creature-tame-fox-arctic-female": "Мертвий песець (самка)",
+  "item-dead-creature-tame-fox-pup-forest": "Мертва лисиця (цуценя)",
+  "item-dead-creature-tame-fox-pup-arctic": "Мертвий песець (щеня)"
+}

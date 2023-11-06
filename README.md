@@ -34,7 +34,7 @@
 | [Teleportation Network](https://mods.vintagestory.at/tpnet) | ![Teleportation Network](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/tpnet/svg-badge.svg) | Downstream | [Division of Labor](https://mods.vintagestory.at/show/mod/7292) | ![Division of Labor](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | [Upstream](https://gitlab.com/phillipinman/division-of-labor/-/merge_requests/1) |
 | [Kefir](https://mods.vintagestory.at/show/mod/7412) | ![Kefir](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Upstream | [Wildcraft Trees](https://mods.vintagestory.at/show/mod/4145) | ![Wildcraft Trees](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wildcraft-trees/svg-badge.svg) | Downstream |
 | [Not Enough Sand](https://mods.vintagestory.at/show/mod/6708) | ![Not Enough Sand](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/notenoughsand/svg-badge.svg) | Downstream | [Sortable Storage](https://mods.vintagestory.at/show/mod/2966) | ![Sortable Storage](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/sortablestorage/svg-badge.svg) | Downstream |
-| [Acorns](https://mods.vintagestory.at/show/mod/259) | ![Acorns](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/acorns/svg-badge.svg) | Upstream |
+| [Acorns](https://mods.vintagestory.at/show/mod/259) | ![Acorns](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/acorns/svg-badge.svg) | Upstream | [Fox Taming](https://mods.vintagestory.at/fox) | 100% | Downstream |
 
 1. Потрібно перевірити Sortable Storage.
 
