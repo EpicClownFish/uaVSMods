@@ -35,7 +35,7 @@
 | [Kefir](https://mods.vintagestory.at/show/mod/7412) | ![Kefir](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/divisionoflabor/svg-badge.svg) | Upstream | [Wildcraft Trees](https://mods.vintagestory.at/show/mod/4145) | ![Wildcraft Trees](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/wildcraft-trees/svg-badge.svg) | Downstream |
 | [Not Enough Sand](https://mods.vintagestory.at/show/mod/6708) | ![Not Enough Sand](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/notenoughsand/svg-badge.svg) | Downstream | [Sortable Storage](https://mods.vintagestory.at/show/mod/2966) | ![Sortable Storage](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/sortablestorage/svg-badge.svg) | [Pull Request](https://github.com/SpearAndFang/sortablestorage/pull/1) |
 | [Acorns](https://mods.vintagestory.at/show/mod/259) | ![Acorns](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/acorns/svg-badge.svg) | Upstream | [Fox Taming](https://mods.vintagestory.at/fox) | 100% | Downstream |
-| [Pet AI](https://mods.vintagestory.at/petai) | ![Pet AI](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/petai/svg-badge.svg) | [Pull Request](https://github.com/G3rste/petai/pull/54)
+| [Pet AI](https://mods.vintagestory.at/petai) | ![Pet AI](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/petai/svg-badge.svg) | [Pull Request](https://github.com/G3rste/petai/pull/54) | [PlayerList](https://mods.vintagestory.at/show/mod/7477) | ![PlayerList](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/playerlist/svg-badge.svg) | [Pull Request](https://github.com/BillyGalbreath/VS-PlayerList/pull/1)
 
 1. Потрібно перевірити Sortable Storage.
 
