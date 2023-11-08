@@ -44,7 +44,7 @@
 | [Beehive Kiln](https://mods.vintagestory.at/show/mod/5060) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/223/en-uk) | Downstream | [More Candles](https://mods.vintagestory.at/show/mod/3601) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/145/en-uk) | Downstream |
 | [Pretzels](https://mods.vintagestory.at/show/mod/5546) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/305/en-uk) | Downstream | [YEET](https://mods.vintagestory.at/show/mod/740) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/301/en-uk) | Downstream |
 | [SuperFuel](https://mods.vintagestory.at/show/mod/450) | [Discord](https://discord.gg/y2vZYXsQH4) | Downstream | [Accessibility Tweaks](https://mods.vintagestory.at/show/mod/450) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/62/en-uk) | Downstream |
-| [Lavoisier](https://mods.vintagestory.at/show/mod/5296) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/261/en-uk) | Downstream |
+| [Lavoisier](https://mods.vintagestory.at/show/mod/5296) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/261/en-uk) | Downstream | [Login Protection](https://mods.vintagestory.at/show/mod/3323) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/10249/en-uk) | Downstream |
 
 1. Wildcraft Trees - Починав перекладати, але знайшов [готовий переклад](https://crowdin.com/translate/vintage-story-mods/191/en-uk).
 
