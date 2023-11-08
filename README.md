@@ -37,9 +37,7 @@
 | [Acorns](https://mods.vintagestory.at/show/mod/259) | ![Acorns](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/acorns/svg-badge.svg) | Upstream | [Fox Taming](https://mods.vintagestory.at/fox) | 100% | Downstream |
 | [Pet AI](https://mods.vintagestory.at/petai) | ![Pet AI](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/petai/svg-badge.svg) | [Upstream](https://github.com/G3rste/petai/pull/54) | [PlayerList](https://mods.vintagestory.at/show/mod/7477) | ![PlayerList](https://weblate.cakestwix.com/widgets/vintage-story-mods/uk/playerlist/svg-badge.svg) | [Pull Request](https://github.com/BillyGalbreath/VS-PlayerList/pull/1)
 
-1. Потрібно перевірити Sortable Storage.
-
-# Не мої переклади
+# Переклади з Crowdin
 | Мод | Джерело | Статус | Мод | Джерело | Статус |
 |-----|--------|-----|--------|--------|--------|
 | [Beehive Kiln](https://mods.vintagestory.at/show/mod/5060) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/223/en-uk) | Downstream | [More Candles](https://mods.vintagestory.at/show/mod/3601) | [Crowdin](https://crowdin.com/translate/vintage-story-mods/145/en-uk) | Downstream |
