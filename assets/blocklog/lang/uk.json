@@ -1,0 +1,9 @@
+{
+  "blocklog:break-player": "Гравець {0} зламав блок:",
+  "blocklog:break-block": "{0}",
+  "blocklog:break-location": "Розташування: {0}, {2}, {1}",
+  "blocklog:break-date": "Дата: {0}",
+  "blocklog:place-player": "Гравець {0} розмістив блок:",
+  "blocklog:place-location": "Розташування: {0}, {2}, {1}",
+  "blocklog:place-date": "Дата: {0}"
+}

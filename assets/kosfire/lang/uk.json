@@ -1,0 +1,11 @@
+{
+  "item-phosphorusmatch": "Фосфорний сірник",
+  "block-dynamitebundle": "В'язанка динамітних шашок",
+  "blockdesc-dynamitebundle": "<i>Ба-бах?</i>",
+  "item-dynamitestick": "Динамітна шашка",
+  "itemdesc-dynamitestick": "<i>Ба-бах?</i>",
+  "item-nitroglycerinportion": "Нітрогліцерин",
+  "incontainer-item-nitroglycerinportion": "нітрогліцерину",
+  "game:incontainer-item-nitroglycerinportion": "нітрогліцерину",
+  "itemdesc-nitroglycerinportion": "C<font size=\"10\">3</font>H<font size=\"10\">5</font>(NO<font size=\"10\">3</font>)<font size=\"10\">3</font>"
+}

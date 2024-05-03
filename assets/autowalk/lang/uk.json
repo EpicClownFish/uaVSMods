@@ -1,0 +1,6 @@
+{
+    "AutoWalk": "\"Автоматична ходьба",
+    "Toggle": "Переключити {0}",
+    "Toggle.True": "{0} <font weight=\"bold\" color=\"#84ff84\">{1}</font>",
+    "Toggle.False": "{0} <font weight=\"bold\" color=\"#ff8484\">{1}</font>"
+}

@@ -1,0 +1,18 @@
+{
+    "labourer": "Орати",
+    "chemin": "Доріжка",
+    "ImpossibleDeFaireUnChemin": "Об'єкт або блок заважає дії!",
+    "IlFautUneHoueDeMilleureQualite": "Цей тип мотики недостатньо міцний, щоб прокласти тут стежку!",
+    "ImpossibleDeLabourer": "Цю землю неможливо орати!",
+    "ImpossibleDeFaireUnCheminSurCeTypeDeTerrain": "Прокласти стежку через цю місцевість неможливо!",
+    "game:block-packeddirtpathtrans-free": "Ґрунтова доріжка",
+    "game:block-packeddirtpathtrans-snow": "Засніжена доріжка",
+    "game:block-packeddirtpathtransfull-free": "Блок ґрунтової дороги",
+    "game:block-packeddirtpathtransfull-snow": "Блок засніженої ґрунтової дороги",
+    "game:block-packeddirtpathtransslab-free": "Доріжкова плита",
+    "game:block-packeddirtpathtransslab-snow": "Засніжена плита доріжки",
+    "game:block-packeddirtpathtransstairslow-*-*-free": "Маленькі ґрунтові сходинки",
+    "game:block-packeddirtpathtransstairslow-*-*-snow": "Засніжені маленькі ґрунтові сходинки",
+    "game:block-packeddirtpathtransstairsup-*-*-free": "блок сходинки з доріжки",
+    "game:block-packeddirtpathtransstairsup-*-*-snow": "Засніжений блок сходинки з доріжки"
+}
