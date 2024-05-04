@@ -1,5 +1,4 @@
 {
-    "game:tabname-sortable": "Sortable Storage",
     "block-chestsortable-*": "Скриня (сортувальна)",
     "block-trunksortable-*": "Велика скриня (сортувальна)",
     "block-labeledchestsortable-*": "Скриня з табличкою (сортувальна)",
@@ -15,6 +14,7 @@
     "block-normal-storagevesselsortable-chthonic": "Судина для зберігання (Хтонічна, Cортувальна)",
     "block-normal-storagevesselsortable-copper": "Судина для зберігання (Мідь, Cортувальна)",
     "block-normal-storagevesselsortable-earthen": "Судина для зберігання (Земляний, Cортувальна)",
+    "block-normal-storagevesselsortable-rain": "Судина для зберігання (Дощ, Cортувальна)",
     "block-normal-storagevesselsortable-burned": "Судина для зберігання (Cортувальна)",
     "block-normal-storagevesselsortable-cowrie": "Судина для зберігання (Коурі, Cортувальна)",
     "block-normal-storagevesselsortable-rime": "Судина для зберігання (Рим, Cортувальна)",
@@ -28,7 +28,6 @@
     "block-normal-storagevesselsortable-seasalt": "Судина для зберігання (Морська сіль, Cортувальна)",
     "block-normal-storagevesselsortable-springflowers": "Судина для зберігання (Весняні квіти, Cортувальна)",
     "block-normal-storagevesselsortable-volcanic": "Судно для зберігання (Вулканічне, Cортувальна)",
-    "block-normal-storagevesselsortable-rain": "Судина для зберігання (Дощ, Cортувальна)",
     "block-normal-deepstorechestsortable-*": "Глибинний пристрій зберігання (Cортувальна)",
     "block-deepstorechestsortable-normal-*": "Глибинний пристрій зберігання (Cортувальна)",
     "blockdesc-deepstorechestsortable-*": "Куди це все дівається?"
